@@ -1,3 +1,36 @@
 title: Fabian D'Agnone
 theme: jekyll-theme-minimal
-description: Fabian's professional website
+description: budding data scientist
+
+
+
+# Site Author
+author:
+  name             : "Fabian D'Agnone"
+  avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Biostatistics Ph.D at Yale"
+  location         : "New Haven, CT"
+  email            : "fabiandagnone@gmail.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "zengliX"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "li-zeng-154a2551?trk=nav_responsive_tab_profile_pic"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+youtube          :
