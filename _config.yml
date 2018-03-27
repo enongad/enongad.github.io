@@ -8,8 +8,8 @@ description: budding data scientist
 author:
   name             : "Fabian D'Agnone"
   avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biostatistics Ph.D at Yale"
-  location         : "New Haven, CT"
+  bio              : ""
+  location         : "Perth, Australia"
   email            : "fabiandagnone@gmail.com"
   uri              :
   bitbucket        :
