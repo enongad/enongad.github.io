@@ -1,8 +1,0 @@
-name: "Fabian D'Agnone"
-navbar:
-  title: "Fabian D'Agnone"
-  left:
-    - text: "Home"
-      href: _site/index.html
-    - text: "About"
-      href: _site/about.html
