@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: misc
+title: Sewerage
 ---
 
 # Sewer Blockage Detection
