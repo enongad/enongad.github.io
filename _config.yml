@@ -7,13 +7,10 @@ description: budding data scientist
 # Site Author
 author:
   name             : "Fabian D'Agnone"
-<<<<<<< HEAD
   avatar           :
   bio              :
-=======
   avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
->>>>>>> 522b26fbd7787e20d545ba398c769aafd3caef7f
   location         : "Perth, Australia"
   email            : "fabiandagnone@gmail.com"
   uri              :
@@ -28,7 +25,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
