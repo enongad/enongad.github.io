@@ -1,43 +1,20 @@
+# Site Build Settings
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+style: :nested
+
+
+
 title: Fabian D'Agnone
 theme: jekyll-theme-minimal
 description:
-
-header:
-  home
-  about
-  work
-
-
-
-# Site Author
-author:
-  name             : "Fabian D'Agnone"
-  avatar           :
-  bio              :
-  avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Perth, Australia"
-  email            : "fabiandagnone@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "enongad"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-youtube          :
