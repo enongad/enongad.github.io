@@ -1,20 +1,28 @@
-# Site Build Settings
+title: Long Haul
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-# jekyll-paginate configuration
-paginate:            5
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
 
-sass:
-  sass_dir: assets/css
-style: :nested
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
 
+social:
+   github: brianmaierjr
+   twitter: brianmaierjr
+   facebook: brianmaierjr
+   email: brimaidesigns@gmail.com
 
-
-title: Fabian D'Agnone
-theme: jekyll-theme-minimal
-description:
+google_analytics: "UA-58263416-1"
