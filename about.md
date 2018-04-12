@@ -5,10 +5,10 @@ title: About
 
 ## Experience
 
-### Consultant Statistician **Data Analysis Australia**
+### Consultant Statistician __Data Analysis Australia__
 
-### Data Linkage Analyst ** Australian Bureau of Statistics**
+### Data Linkage Analyst __Australian Bureau of Statistics__
 
-### Research Scholar **Water Corporation**
+### Research Scholar __Water Corporation__
 
 ## Research
