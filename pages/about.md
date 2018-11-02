@@ -3,4 +3,23 @@ layout: misc
 title: About Me
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+My name is Fabian D'Agnone and I am a budding data scientist from Perth, Western Australia.
+
+
+### Experience
+
+Synergy
+*2018-present*
+
+Data Analysis Australia
+*2017-2018*
+
+Water Corporation
+*2017*
+
+Australian Bureau of Statistics
+*2015 - 2017*
+
+### Studies
+Bachelor of Science (Hons) Majoring in Mathematics and Statistics
+*University of Western Australia*
