@@ -8,18 +8,18 @@ My name is Fabian D'Agnone and I am a budding data scientist from Perth, Western
 
 ### Experience
 
-Synergy
+**Synergy**  
 *2018-present*
 
-Data Analysis Australia
+**Data Analysis Australia**  
 *2017-2018*
 
-Water Corporation
+**Water Corporation**  
 *2017*
 
-Australian Bureau of Statistics
+**Australian Bureau of Statistics**  
 *2015 - 2017*
 
 ### Studies
-Bachelor of Science (Hons) Majoring in Mathematics and Statistics
+**Bachelor of Science (Hons) Majoring in Mathematics and Statistics**  
 *University of Western Australia*
